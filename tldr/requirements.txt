@@ -1,0 +1,10 @@
+flask
+feedparser
+requests
+firebase-admin
+asyncio
+concurrent.futures
+transformers
+torch
+pytorch-lightning
+supabase-py
